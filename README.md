@@ -7,70 +7,75 @@ fedetahan8@gmail.com
 
 # *Activacion del programa*.
 
-![Captura de pantalla 2023-05-14 115538](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/02c8ae32-95a3-4060-8278-4231ac594ff1)
 
 
 # *Sistema de Logeo*
 ![Captura de pantalla 2023-05-14 115002](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/b127004c-601b-49e5-a2ce-f74a430ccc12)
 
+![Captura de pantalla 2023-05-14 115538](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/99004a9c-99c2-4e9a-842e-e4ffa64da6be)
 
 # *Interfaz Principal del Software*
-![Captura de pantalla 2023-05-13 102603](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/980fb5c7-1d11-4d31-8984-82202f44414a)
+![Captura de pantalla 2023-05-13 102603](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/e4206557-9fb8-4465-b187-fdec376ce177)
+
 
 # *Gestion de productos*
-![Captura de pantalla 2023-05-13 103216](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/737f69be-b884-4aaf-ba5f-8e2c5fc40a62)
+![Captura de pantalla 2023-05-13 103216](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/c297a91b-f940-42a8-8671-2cb086c5d81f)
 
 
-![image](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/7cb10ae9-9091-4775-9732-4c24b37f8475)
+![Captura de pantalla 2023-05-14 115901](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/6619f33b-1369-4688-bfc6-d828d0d6b851)
 
 
 # *Usuarios del programa*
-![Captura de pantalla 2023-05-13 103256](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/6724f3ca-c7d7-48b6-90c2-19088595776e)
 
-![image](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/2a085983-095e-47f5-83a7-7eab2fe8a40b)
+![Captura de pantalla 2023-05-13 103256](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/d758f989-ab9f-4568-ab9c-87f44ea71e7f)
 
+![Captura de pantalla 2023-05-14 115946](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/65fe9c65-57f3-48e9-89b0-774ecd0577be)
 
 
 # *Reportes*
-![Captura de pantalla 2023-05-13 103306](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/ca53e1be-f020-403d-a1cc-69b84b7e83d3)
+![Captura de pantalla 2023-05-13 103306](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/cde71936-e418-4de1-8807-82d39da52269)
 
 
 # *Gestion de Stock*
-![Captura de pantalla 2023-05-13 103237](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/838ec970-8190-4b0e-88aa-8f7e0ce25fe1)
+![Captura de pantalla 2023-05-13 103237](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/d23d3a66-fe8b-4cd2-9c54-bde537cddd8d)
+
 
 
 # *Sistema de Ventas*
-![Captura de pantalla 2023-05-13 103329](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/d0c7b6f4-a1f5-4791-8259-177349e10e0b)
+![Captura de pantalla 2023-05-13 103329](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/88e01f44-8bb8-4873-a00d-04f756696c77)
 
 
-![Captura de pantalla 2023-05-13 103340](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/7a0464c6-4151-4f42-9888-89452fb114d3)
+![Captura de pantalla 2023-05-13 103340](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/44dc2d69-d082-4338-b5d3-a1a5e0280b31)
 
 
 
 # *Consulta de ventas*
-![Captura de pantalla 2023-05-13 103411](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/e7b1bf78-7147-4742-9d0b-11cef6b00e73)
+
+![Captura de pantalla 2023-05-13 103411](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/adc5cb52-943a-42e1-b819-3e42ace9f154)
 
 
-![Captura de pantalla 2023-05-13 103418](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/32c21e4d-e697-4d42-872e-8fd5b0968c3b)
-
+![Captura de pantalla 2023-05-13 103418](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/7d5521bd-9d6e-4203-b20d-e5c54cabd46b)
 
 
 # *Cuenta de Clientes* 
-![Captura de pantalla 2023-05-13 103508](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/f289b4bc-0da4-4e47-8581-6dba2335a4e3)
+
+![Captura de pantalla 2023-05-13 103508](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/5a5cacc9-a1c4-445f-b40a-ddcddcfc87ee)
 
 
 # *Personalizacion del Ticket*
-![Captura de pantalla 2023-05-14 115120](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/98143e16-501a-4d9b-bbdc-949372484a36)
+
+![Captura de pantalla 2023-05-14 115120](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/bccf4613-eb98-43c1-b357-4369b3422405)
+
 
 # *Back-Up*
-![Captura de pantalla 2023-05-14 115139](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/c3986334-97c1-4f7b-9c58-7ec741d070fb)
+![Captura de pantalla 2023-05-14 115139](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/226ff3e1-122e-4095-87d9-65cce024558b)
 
 
 # *Temas*
-![image](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/d1916053-8391-435a-9bcb-24341bf837d3)
+![Captura de pantalla 2023-05-14 120259](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/70a2f2a7-fd5c-4626-b031-22574474cdf2)
 
 
 # *Ingreso de datos*
-![image](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/c891a3c9-f411-432e-9023-905271e65326)
+![Captura de pantalla 2023-05-14 120332](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/8511bd23-a066-4dbb-8447-9981d99afa7e)
 
 
