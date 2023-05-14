@@ -6,13 +6,13 @@ Este proyecto está destinado a su comercialización y, por lo tanto, el código
 fedetahan8@gmail.com
 
 # *Activacion del programa*.
+![Captura de pantalla 2023-05-14 115538](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/99004a9c-99c2-4e9a-842e-e4ffa64da6be)
 
 
 
 # *Sistema de Logeo*
 ![Captura de pantalla 2023-05-14 115002](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/b127004c-601b-49e5-a2ce-f74a430ccc12)
 
-![Captura de pantalla 2023-05-14 115538](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/99004a9c-99c2-4e9a-842e-e4ffa64da6be)
 
 # *Interfaz Principal del Software*
 ![Captura de pantalla 2023-05-13 102603](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/e4206557-9fb8-4465-b187-fdec376ce177)
