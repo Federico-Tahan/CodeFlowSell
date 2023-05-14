@@ -1,6 +1,6 @@
 # CodeFlowSell
 
-Este proyecto está destinado a ser vendido y, por lo tanto, el código se mantendrá como información privada y confidencial. Si está interesado en revisar el código, le insto a que se ponga en contacto conmigo.
+Este proyecto está destinado a su comercialización y, por lo tanto, el código se mantendrá como información privada y confidencial. Si está interesado en revisar el código, le insto a que se ponga en contacto conmigo.
 
 # *Activacion del programa*.
 
