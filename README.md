@@ -2,6 +2,9 @@
 
 Este proyecto está destinado a su comercialización y, por lo tanto, el código se mantendrá como información privada y confidencial. Si está interesado en revisar el código, le insto a que se ponga en contacto conmigo.
 
+*Email de contacto*
+fedetahan8@gmail.com
+
 # *Activacion del programa*.
 
 ![Captura de pantalla 2023-05-14 115538](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/02c8ae32-95a3-4060-8278-4231ac594ff1)
