@@ -1,6 +1,8 @@
 # CodeFlowSell
 
 Este proyecto está destinado a su comercialización y, por lo tanto, el código se mantendrá como información privada y confidencial. Si está interesado en revisar el código, puede ponerse en contacto conmigo.
+Realizado en C# .NET con SQL Server
+
 
 *Email de contacto*
 fedetahan8@gmail.com
