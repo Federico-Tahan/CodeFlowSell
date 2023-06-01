@@ -11,7 +11,7 @@ fedetahan8@gmail.com
 
 
 # *Sistema de Logeo*
-![Captura de pantalla 2023-05-14 115002](https://github.com/Federico-Tahan/GestionVentas/assets/88520985/b127004c-601b-49e5-a2ce-f74a430ccc12)
+![Captura de pantalla 2023-05-14 115002](https://github.com/Federico-Tahan/CodeFlowSell/assets/88520985/4cfc3dbe-c29c-4467-bdca-1ee25dd18b83)
 
 
 # *Interfaz Principal del Software*
